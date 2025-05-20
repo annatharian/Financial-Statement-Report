@@ -29,3 +29,5 @@
 - Expense optimization: Closely monitor advertising, SaaS COGS, and professional services, which showed budget overruns in certain months.
 - Client diversification strategy: Mitigate revenue risk by expanding focus beyond top-paying SMB clients to stabilize income streams.
 - Improve budget forecasting: Regular variance analysis can help realign budgets more dynamically to operational trends.
+
+Check the dashboard out:  https://app.powerbi.com/view?r=eyJrIjoiN2E3NzlkNDQtYzg1MC00NDUwLTljZDEtY2YxYTM3MWJhYWI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=2f822b272260030695ed 
